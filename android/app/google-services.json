@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "777306729469",
+    "firebase_url": "https://pushtiras-46d3a.firebaseio.com",
+    "project_id": "pushtiras-46d3a",
+    "storage_bucket": "pushtiras-46d3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777306729469:android:644a386a27950d3e79c794",
+        "android_client_info": {
+          "package_name": "com.pushtiras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777306729469-ec97hkehvaaospqareu7i849hj8l851v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpPJ3o_aM1bZoUgxynuUbIEt2Z4DJ9mHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777306729469-ec97hkehvaaospqareu7i849hj8l851v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
